@@ -299,6 +299,7 @@ name = "tunnel"
 version = "0.1.0"
 dependencies = [
  "sltunnel",
+ "tokio",
 ]
 
 [[package]]
