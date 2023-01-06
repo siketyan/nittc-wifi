@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 sltunnel = "0.1.0"
-tokio = { version = "1.8", features = ["macros"] }
+tokio = { version = "1.18", features = ["macros"] }
